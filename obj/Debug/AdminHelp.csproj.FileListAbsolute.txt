@@ -1,0 +1,10 @@
+C:\Users\owner\Desktop\GitHub\downloaded repos\-RocketMod--AdminHelp\obj\Debug\AdminHelp.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\GitHub\downloaded repos\-RocketMod--AdminHelp\bin\Debug\AdminHelp.dll
+C:\Users\owner\Desktop\GitHub\downloaded repos\-RocketMod--AdminHelp\bin\Debug\AdminHelp.pdb
+C:\Users\owner\Desktop\GitHub\downloaded repos\-RocketMod--AdminHelp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\owner\Desktop\GitHub\downloaded repos\-RocketMod--AdminHelp\bin\Debug\Assembly-CSharp.dll
+C:\Users\owner\Desktop\GitHub\downloaded repos\-RocketMod--AdminHelp\bin\Debug\Rocket.API.dll
+C:\Users\owner\Desktop\GitHub\downloaded repos\-RocketMod--AdminHelp\bin\Debug\Rocket.Core.dll
+C:\Users\owner\Desktop\GitHub\downloaded repos\-RocketMod--AdminHelp\bin\Debug\Rocket.Unturned.dll
+C:\Users\owner\Desktop\GitHub\downloaded repos\-RocketMod--AdminHelp\obj\Debug\AdminHelp.dll
+C:\Users\owner\Desktop\GitHub\downloaded repos\-RocketMod--AdminHelp\obj\Debug\AdminHelp.pdb
