@@ -100,7 +100,7 @@ namespace fr.zilothewolf.adminhelp
         {
             List<UnturnedPlayer> list = new List<UnturnedPlayer>();
 
-            foreach (SteamPlayer sp in Provider.Players)
+            foreach (SteamPlayer sp in Provider.clients)
             {
                 UnturnedPlayer p = UnturnedPlayer.FromSteamPlayer(sp);
                 list.Add(p);
