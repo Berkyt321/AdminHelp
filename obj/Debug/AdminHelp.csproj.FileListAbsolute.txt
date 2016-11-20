@@ -8,3 +8,13 @@ C:\Users\owner\Desktop\GitHub\downloaded repos\-RocketMod--AdminHelp\bin\Debug\R
 C:\Users\owner\Desktop\GitHub\downloaded repos\-RocketMod--AdminHelp\bin\Debug\Rocket.Unturned.dll
 C:\Users\owner\Desktop\GitHub\downloaded repos\-RocketMod--AdminHelp\obj\Debug\AdminHelp.dll
 C:\Users\owner\Desktop\GitHub\downloaded repos\-RocketMod--AdminHelp\obj\Debug\AdminHelp.pdb
+D:\GitHub\-RocketMod--AdminHelp\bin\Debug\AdminHelp.dll
+D:\GitHub\-RocketMod--AdminHelp\bin\Debug\AdminHelp.pdb
+D:\GitHub\-RocketMod--AdminHelp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\GitHub\-RocketMod--AdminHelp\bin\Debug\Assembly-CSharp.dll
+D:\GitHub\-RocketMod--AdminHelp\bin\Debug\Rocket.API.dll
+D:\GitHub\-RocketMod--AdminHelp\bin\Debug\Rocket.Core.dll
+D:\GitHub\-RocketMod--AdminHelp\bin\Debug\Rocket.Unturned.dll
+D:\GitHub\-RocketMod--AdminHelp\obj\Debug\AdminHelp.csprojResolveAssemblyReference.cache
+D:\GitHub\-RocketMod--AdminHelp\obj\Debug\AdminHelp.dll
+D:\GitHub\-RocketMod--AdminHelp\obj\Debug\AdminHelp.pdb
