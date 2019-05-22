@@ -8,3 +8,15 @@ D:\GitHub\-RocketMod--AdminHelp\bin\Release\Rocket.Unturned.dll
 D:\GitHub\-RocketMod--AdminHelp\obj\Release\AdminHelp.csprojResolveAssemblyReference.cache
 D:\GitHub\-RocketMod--AdminHelp\obj\Release\AdminHelp.dll
 D:\GitHub\-RocketMod--AdminHelp\obj\Release\AdminHelp.pdb
+D:\Gereksizler\GitHub\-RocketMod--AdminHelp\bin\Release\AdminHelp.dll
+D:\Gereksizler\GitHub\-RocketMod--AdminHelp\bin\Release\AdminHelp.pdb
+D:\Gereksizler\GitHub\-RocketMod--AdminHelp\bin\Release\Assembly-CSharp-firstpass.dll
+D:\Gereksizler\GitHub\-RocketMod--AdminHelp\bin\Release\Assembly-CSharp.dll
+D:\Gereksizler\GitHub\-RocketMod--AdminHelp\bin\Release\Rocket.API.dll
+D:\Gereksizler\GitHub\-RocketMod--AdminHelp\bin\Release\Rocket.Core.dll
+D:\Gereksizler\GitHub\-RocketMod--AdminHelp\bin\Release\Rocket.Unturned.dll
+D:\Gereksizler\GitHub\-RocketMod--AdminHelp\obj\Release\AdminHelp.csprojAssemblyReference.cache
+D:\Gereksizler\GitHub\-RocketMod--AdminHelp\obj\Release\AdminHelp.csproj.CoreCompileInputs.cache
+D:\Gereksizler\GitHub\-RocketMod--AdminHelp\obj\Release\AdminHelp.csproj.CopyComplete
+D:\Gereksizler\GitHub\-RocketMod--AdminHelp\obj\Release\AdminHelp.dll
+D:\Gereksizler\GitHub\-RocketMod--AdminHelp\obj\Release\AdminHelp.pdb
